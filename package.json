@@ -3,7 +3,7 @@
   "displayName": "Moon Violet Dark Plus",
   "description": "dark theme with beautiful colores(violet,Purple,orange blue)",
   "publisher": "moondevaa",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -22,7 +22,7 @@
       {
         "label": "Moon Violet Dark Plus",
         "uiTheme": "vs",
-        "path": "./themes/Moon Violet Dark Plus-color-theme.json"
+        "path": "./themes/moon-violet-dark-plus-color-theme.json"
       }
     ]
   }
