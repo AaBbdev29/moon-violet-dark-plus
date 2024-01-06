@@ -14,6 +14,7 @@ A dark theme with attratice colores for Visual Studio Code.
 #enjoy coding,.
 ## change Log
 fixed most bugs ..
+Codes are from AI.
 ###
   <div align="center">
     <hr />
@@ -26,9 +27,16 @@ fixed most bugs ..
 # Screenshots
 
 <div align="center">
-    <h2>React js</h2>
-    <img src="https://raw.githubusercontent.com/AaBbdev29/moon-violet-dark-plus/main/violet.png" alt="Moon in React"/>
+    <h2>Javascript</h2>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/moon-violet-dark-plus/main/js.png" alt="Moon in js"/>
 </div>
 ###########
-
-
+<div align="center">
+    <h2>Python</h2>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/moon-violet-dark-plus/main/py.png" alt="Moon in py"/>
+</div>
+###########
+<div align="center">
+    <h2>C++</h2>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/moon-violet-dark-plus/main/cpp.png" alt="Moon in cpp"/>
+</div>
