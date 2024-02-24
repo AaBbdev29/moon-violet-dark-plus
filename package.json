@@ -3,16 +3,19 @@
   "displayName": "Moon Violet Dark Plus",
   "description": "dark theme with beautiful colores(violet,Purple,orange blue)",
   "publisher": "moondevaa",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.72.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark","moon","poppy","viridian","magenta","pink","attractive","yummy"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AaBbdev29"
+    "url": "https://github.com/AaBbdev29/moon-violet-dark-plus"
   },
   "icon": "moon.jpg", 
   "theme": "dark",
