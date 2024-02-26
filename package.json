@@ -3,7 +3,7 @@
   "displayName": "Moon Violet Dark Plus",
   "description": "dark theme with beautiful colores(violet,Purple,orange blue)",
   "publisher": "moondevaa",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -11,7 +11,11 @@
     "Themes"
   ],
   "keywords": [
-    "dark","moon","poppy","viridian","magenta","pink","attractive","yummy"
+    "dark","moon","poppy","viridian","magenta","pink","attractive","yummy","abbey","asphalt","black-bean","black-cat","black-cow","charcoal",
+    "eerie-Black","gunmetal","Iridium","jet","midnight","night","oil","raisin-black","smoky-black","black-leather","blackberry","slate",
+    "pitch-black","spider","metal","grease","crow","neutral","vampire","cool","ink","ravan","sable","power","soot","true","premium",
+    "obsidian","magic","rich","Raspberry","alien-black","tech","dull","Retro","refresh","pearl","luxury","pastal","fashion-black",
+    "Kokushoku","void","carboon",""
   ],
   "repository": {
     "type": "git",
