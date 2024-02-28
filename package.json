@@ -3,7 +3,7 @@
   "displayName": "Moon Violet Dark Plus",
   "description": "dark theme with beautiful colores(violet,Purple,orange blue)",
   "publisher": "moondevaa",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -15,7 +15,15 @@
     "eerie-Black","gunmetal","Iridium","jet","midnight","night","oil","raisin-black","smoky-black","black-leather","blackberry","slate",
     "pitch-black","spider","metal","grease","crow","neutral","vampire","cool","ink","ravan","sable","power","soot","true","premium",
     "obsidian","magic","rich","Raspberry","alien-black","tech","dull","Retro","refresh","pearl","luxury","pastal","fashion-black",
-    "Kokushoku","void","carboon",""
+    "Kokushoku","void","carboon","colorful","attarctive","zenburn","webstrome","winter","wind","vibe","universe","ultra",
+    "ultimate","ubuntu","linux","turbo","true","false","tomorrow","terminal","syntax","sweet","super","sun","Saturn","style","star","krita",
+    "soft","space","smooth","smile","laught","sky","simple","easy","silver","semantic","seti","sakura","ruby","relax","rainbow","rainglow",
+    "radial","radical","pro","professional","palette","plastic","palennight","pack","orginal","omini","official","obsidian","nice",
+    "nemo","neo","new","folder","nano","modern","minimal","mega","max","material","mangic","low","laser","just","jelly","infinity"
+    ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
+    "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
+    "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
+    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex"
   ],
   "repository": {
     "type": "git",
