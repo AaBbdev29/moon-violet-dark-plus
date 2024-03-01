@@ -3,7 +3,7 @@
   "displayName": "Moon Violet Dark Plus",
   "description": "dark theme with beautiful colores(violet,Purple,orange blue)",
   "publisher": "moondevaa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -23,7 +23,14 @@
     ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
     "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
     "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
-    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex"
+    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex","Autumn-Purple","shiny","matte","Traffic",
+    "dull","Artist","Deep","Luxury","Mauveine","Languid-Lavender","Mythical","Faded","Metallic","Aesthetic","Smyrna","Amaranth",
+    "Lakers","Cardinal","Middle","Pale","Strong","Kalamata","Carolina","FedEx","Vulgar","Brilliant","Hopbush","Seance","Kingfisher-Daisy",
+    "cyber","early","heart","Munsell","Imperial","Traditional","Regalia","wine","Razzmic","Rebecca","Mountain","Magenta","Heather",
+    "ripe-plum","jam","Fuchsia","Mountbatten-pink","Periwinkle","Eggplant","Studio","Tyrian","pizza","Pompadour","Lipstick-Stain",
+    "Long-Distance","iris","boss","affair","Fandango","fairy-tale","Amethyst","Byzantium","Palatinate","Eminence","Northwestern",
+    "Purpureus","Pearly","Mulberry","Liserian","Phlox","Heliotrope","Veronica","Indigo","Thistle","gambit","gino","pandora",
+    "rarity","medusa","hit-girl","pink-panther","timmy-turner","Snagglepuss"
   ],
   "repository": {
     "type": "git",
