@@ -3,7 +3,7 @@
   "displayName": "Moon Violet Dark Plus",
   "description": "dark theme with beautiful colores(violet,Purple,orange blue)",
   "publisher": "moondevaa",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -30,7 +30,10 @@
     "ripe-plum","jam","Fuchsia","Mountbatten-pink","Periwinkle","Eggplant","Studio","Tyrian","pizza","Pompadour","Lipstick-Stain",
     "Long-Distance","iris","boss","affair","Fandango","fairy-tale","Amethyst","Byzantium","Palatinate","Eminence","Northwestern",
     "Purpureus","Pearly","Mulberry","Liserian","Phlox","Heliotrope","Veronica","Indigo","Thistle","gambit","gino","pandora",
-    "rarity","medusa","hit-girl","pink-panther","timmy-turner","Snagglepuss","shades","shadow"
+    "rarity","medusa","hit-girl","pink-panther","timmy-turner","Snagglepuss","shades","shadow","cheshire","peter","harmony","bear","share",
+    "ape","abira","Beerus","Dizzy","joker","lumpy","bing","aster","foxglove","giant","onion","holly","hock","pansy","morning","glory",
+    "verbena","Canterbury","crocus","Scabiosa","Mangosteen","glossy","kale","Jambul","fig","Unicorn","Beetroots","Blossoms","Blackberries",
+    "cherry","Geraniums","Lupins","Granite","Tulips","Sunset","Turnips","Coleus"
   ],
   "repository": {
     "type": "git",
