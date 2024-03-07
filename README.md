@@ -25,7 +25,18 @@ Codes are from AI.
   </div>
 
 # Screenshots
-
+###########
+<div align="center">
+    <h2>Rust</h2>
+    <img src="https://github.com/AaBbdev29/moon-violet-dark-plus/blob/main/img/rust.png?raw=true" alt="Moon in rust"/>
+</div>
+###########
+<div align="center">
+    <h2>JSON</h2>
+    <img src="https://github.com/AaBbdev29/moon-violet-dark-plus/blob/main/img/json.png?raw=true" alt="Moon in json"/>
+</div>
+###########
+<h4>Note: screenshots is from old versions</h4>
 <div align="center">
     <h2>Javascript</h2>
     <img src="https://raw.githubusercontent.com/AaBbdev29/moon-violet-dark-plus/main/js.png" alt="Moon in js"/>
@@ -40,3 +51,4 @@ Codes are from AI.
     <h2>C++</h2>
     <img src="https://raw.githubusercontent.com/AaBbdev29/moon-violet-dark-plus/main/cpp.png" alt="Moon in cpp"/>
 </div>
+
